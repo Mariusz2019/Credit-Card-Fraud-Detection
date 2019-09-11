@@ -9,3 +9,4 @@
 
 Based on IEEE-CIS Fraud Detection Kaggle dataset https://www.kaggle.com/c/ieee-fraud-detection
 
+Data shall be downloaded to directory '/data'
